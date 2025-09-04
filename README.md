@@ -1,0 +1,2 @@
+# AgendaTrade
+Aplicativo Agenda Trade
